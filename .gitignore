@@ -1,0 +1,10 @@
+/venv
+/.flake
+/src/MUJOCO_LOG.TXT
+/src/__pycache__
+*.out
+*.TXT
+*.fls 
+*.aux
+*.fdb_latexmk
+*.synctex.gz
